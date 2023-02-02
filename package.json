@@ -1,7 +1,7 @@
 {
   "name": "accountabstraction",
   "version": "1.0.0",
-  "description": "",
+  "description": "Implementation of contracts for ERC-4337 account abstraction via alternative mempool.",
   "scripts": {
     "clean": "rm -rf cache artifacts typechain typechain-types",
     "compile": "./scripts/hh-wrapper compile",
